@@ -1,0 +1,12 @@
+{
+  "domain": "voxnet_balance",
+  "name": "Voxnet Balance",
+  "version": "2.1.0",
+  "documentation": "https://github.com/GoodGosha/Voxnet-balance",
+  "issue_tracker": "https://github.com/GoodGosha/Voxnet-balance/issues",
+  "requirements": ["beautifulsoup4", "aiohttp"],
+  "dependencies": [],
+  "codeowners": [],
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}
