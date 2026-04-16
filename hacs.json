@@ -1,0 +1,7 @@
+{
+  "name": "Voxnet Balance",
+  "content_in_root": false,
+  "domains": ["sensor"],
+  "country": "RU",
+  "homeassistant": "2024.1.0"
+}
